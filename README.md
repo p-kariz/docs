@@ -16,8 +16,9 @@ Include user credentials in your API request when fetching user data.
 After authenticating your users, you can request data from their sales channels.
 ### Supported Channels
 We currently support the following sales channels:
-- Shopify
-- WooCommerce
+- **Shopify**
+- **WooCommerce**
+- **Amazon**
 ### Supported Data Models
 We support the following e-commerce data models:
 - [Orders](https://github.com/runkariz/docs/blob/main/order/README.md)
